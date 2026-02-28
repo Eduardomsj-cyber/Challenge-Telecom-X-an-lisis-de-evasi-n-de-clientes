@@ -19,8 +19,8 @@ Para asegurar que el proyecto corra perfectamente, utiliza el gestor de paquetes
 
 ```bash
 # 1. Clonar el repositorio
-git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tu-usuario/nombre-del-repo.git)
-cd nombre-del-repo
+git clone https://github.com/Eduardomsj-cyber/Challenge-Telecom-X-an-lisis-de-evasi-n-de-clientes.git
+cd Challenge-Telecom-X-an-lisis-de-evasi-n-de-clientes
 
 # 2. Crear el entorno virtual con Python 3.10
 conda create --name telecom_analysis python=3.10 -y
