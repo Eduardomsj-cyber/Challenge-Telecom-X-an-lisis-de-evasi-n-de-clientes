@@ -8,7 +8,7 @@ La deserción de clientes es uno de los mayores desafíos en el sector Telco. En
 **Hallazgos clave:**
 * **Tasa de Abandono:** 26.5%.
 * **Factor de Riesgo:** Cargos mensuales superiores a $70 USD.
-* **Periodo de Alerta:** Primeros 12 meses de contrato (fase de "Luna de Miel").
+* **Periodo de Alerta:** Primeros 12 meses de contrato.
 * **Contratos:** Los planes "Mes a mes" presentan la mayor volatilidad.
 
 ---
